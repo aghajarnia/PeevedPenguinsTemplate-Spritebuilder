@@ -10,8 +10,8 @@
 
 @implementation Gameplay
 
-CCPhysicsNode *_physicsNode;
 CCNode *_catapultArm;
+CCPhysicsNode *_physicsNode;
 
 // is called when CCB file has completed loading
 - (void)didLoadFromCCB {
