@@ -9,7 +9,7 @@
 #import "Gameplay.h"
 
 @implementation Gameplay
-
+{
 CCNode *_catapultArm;
 CCPhysicsNode *_physicsNode;
 
@@ -38,5 +38,6 @@ CCPhysicsNode *_physicsNode;
     CGPoint force = ccpMult(launchDirection, 8000);
     [penguin.physicsBody applyForce:force];
 }
-
+    
+}
 @end
