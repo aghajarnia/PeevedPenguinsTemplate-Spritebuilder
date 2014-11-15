@@ -198,7 +198,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string></string>
+				<string>Gameplay</string>
 				<key>displayName</key>
 				<string>catapultarm</string>
 				<key>memberVarAssignmentName</key>
@@ -278,8 +278,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -467,7 +465,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string></string>
+				<string>Gameplay</string>
 				<key>displayName</key>
 				<string>CCPhysicsNode</string>
 				<key>memberVarAssignmentName</key>
@@ -555,6 +553,8 @@
 						<real>0.5</real>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
